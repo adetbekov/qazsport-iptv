@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-MEDIA-SEQUENCE:41543
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXTINF:10,
+583eb2f0a1a2968c0e0b8b0d8bd3cd36--media-upchzonal_41543.ts?hls_proxy_host=pub1.rtmp.s01.l.kaztrk
+#EXTINF:10,
+583eb2f0a1a2968c0e0b8b0d8bd3cd36--media-upchzonal_41544.ts?hls_proxy_host=pub1.rtmp.s01.l.kaztrk
+#EXTINF:10,
+583eb2f0a1a2968c0e0b8b0d8bd3cd36--media-upchzonal_41545.ts?hls_proxy_host=pub1.rtmp.s01.l.kaztrk
